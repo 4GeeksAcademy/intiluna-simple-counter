@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.clock-style {
+    width: 6rem;
+    height: max-content;
+    font-size: 150%;
+  }
+
+ .card{
+    --bs-card-border-radius: 0;
+ }
